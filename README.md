@@ -1,4 +1,4 @@
-# ExpenseTracker
+# ExpensesTracker
 -Implemented robust APIs: Utilized Express.js and Node.js to create efficient and reliable APIs, ensuring smooth data retrieval and manipulation.
 -User Authentication and Authorization: Enhanced the security of the application by implementing user authentication and authorization mechanisms, ensuring secure access to sensitive features.
 .
